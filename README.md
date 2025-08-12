@@ -18,4 +18,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# personal-expense-tracker-flutter
+# personal-expense-tracker-flutter Screenshots
+
+![App Icon In Android](assets/screenshots_github/1.jpeg)
+![App Home Page](assets/screenshots_github/2.jpeg)
+![App Home Screen with Data](assets/screenshots_github/3.jpeg)
+![Add Expense Screen](assets/screenshots_github/4.jpeg)
+![App Home Screen (Light Mode)](assets/screenshots_github/5.jpeg)
+![Delete Pop-up](assets/screenshots_github/6.jpeg)
